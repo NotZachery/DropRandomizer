@@ -1,0 +1,6 @@
+name: DropRandomizer
+version: ${project.version}
+main: me.zacherycoleman.droprandomizer.Main
+api-version: 1.13
+authors: [Zachery Coleman, Justin Crawford]
+description: Randomizes drops
