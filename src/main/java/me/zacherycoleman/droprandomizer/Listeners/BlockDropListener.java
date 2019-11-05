@@ -137,12 +137,6 @@ public class BlockDropListener implements Listener
     }
 
     @EventHandler
-    public void StupidWeather (WeatherChangeEvent e)
-    {
-        e.setCancelled(true);
-    }
-
-    @EventHandler
     public void BlockDropItem (BlockBreakEvent event)
     {
         // Stop the block from dropping it's item
